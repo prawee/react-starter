@@ -5,3 +5,14 @@ skelaton for start project with React
 ```php
 git clone https://github.com/prawee/react-starter.git
 ```
+# installation
+```php
+cd react-starter
+npm install 
+```
+# run 
+```php 
+node_modules/.bin/webpack-dev-server
+```
+# browser
+http://localhost:8080
